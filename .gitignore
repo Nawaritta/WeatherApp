@@ -1,0 +1,34 @@
+# This .gitignore file is specific to Unity projects.
+
+# Built application files
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ibrary/
+/[Ll]ocal[Cc]ache/
+/[Oo]bj/
+
+# VS Code specific .vscode/
+.vscode/
+
+# Rider specific
+.idea/
+
+# User-specific files
+*.pidb.meta
+*.pidb
+
+# Unity3D generated meta files
+*.pidb
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.unityproj
+*.dll
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Build artifacts
+/[Bb]uild/*
